@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614990726613",
+    "project_id": "login-register-firebase-70925",
+    "storage_bucket": "login-register-firebase-70925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614990726613:android:6ccf57f7aadde53871295c",
+        "android_client_info": {
+          "package_name": "com.example.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614990726613-03ql1obb5kjca6u81ergi1au8l1u67s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFvNxhBnSNIp-nPfAx0mhkAt8hAkJRV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614990726613-03ql1obb5kjca6u81ergi1au8l1u67s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

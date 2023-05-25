@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navHome"
+        android:title="TODAY"
+        android:icon="@drawable/calendar"
+        />
+
+    <item android:id="@+id/navHistory"
+        android:title="HISTORY"
+        android:icon="@drawable/history"
+        />
+
+    <item android:id="@+id/navSearch"
+        android:title="SEARCH"
+        android:icon="@drawable/search"
+        />
+
+    <item android:id="@+id/navStatic"
+        android:title="STATIC"
+        android:icon="@drawable/progress"
+        />
+</menu>
